@@ -17,7 +17,7 @@ Ao longo do projeto foram aplicados conceitos fundamentais de HTML5, CSS3 e Java
 
 O sistema encontra-se publicado através do GitHub Pages, permitindo a visualização e utilização de todas as funcionalidades diretamente pelo navegador.
 
-🔗 **[Clique aqui para acessar a aplicação]([https://seuusuario.github.io/nome-do-repositorio/](https://fe-76.github.io/Atividades-Front-end/))**
+🔗 **[Clique aqui para acessar a aplicação]([https://fe-76.github.io/Atividades-Front-end/])**
 
 ---
 
